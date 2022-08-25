@@ -12,3 +12,6 @@ Data structures are collections of values, the relationships among them and the 
 7) Hash tables
 8) Graphs
 9) Graph traversal
+
+Slides: https://cs.slides.com/colt_steele
+Visualgo https://visualgo.net/en/list?slide=1
