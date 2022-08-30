@@ -19,3 +19,12 @@ What makes a good hash function?
  - Fast (ie: constant time)
  - Doesn't cluster outputs at specific indecies, but distributes uniformly
  - Deterministic (same input yields same output)
+
+Dealing with collisions:
+ - Separate Chaining (array of values at an index)
+ - Linear Probing (checking if index contains a value, move value to next index (if no value there))
+
+Big-O of Hash Tables:
+ - Insertion 0(1) 
+ - Removal 0(1) 
+ - Access 0(1)
